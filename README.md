@@ -62,3 +62,5 @@ The primary objective of this analysis is to uncover valuable business insights 
 * Measure the impact of discounts and promotions
 * Understand customer loyalty and repeat purchases
 * Generate interactive dashboards and business reports
+
+*resource : kaggle (data set)
